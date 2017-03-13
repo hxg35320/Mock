@@ -1,0 +1,7 @@
+<h2><?php echo $page_heading ; ?></h2>
+<body>
+
+		<br> <a href="http://localhost/ch6/index.php/me/edit_val" class="btn btn-info" role="button">Edit Profile</a>
+		 <a href="http://localhost/ch6/index.php/me/me_ud" class="btn btn-info" role="button">User Details</a>
+		 <a href="http://localhost/ch6/index.php/register" class="btn btn-info" role="button">Register Now</a></br>
+		 
